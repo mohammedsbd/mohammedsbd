@@ -1,4 +1,4 @@
-[![MasterHead](https://github.blog/wp-content/uploads/2024/06/AI-DarkMode-4.png?resize=800%2C425)]
+[![MasterHead](https://miro.medium.com/v2/resize:fit:740/1*6MYUqceqlLewavjqkoJy7g.png]
 
 
 
