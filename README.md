@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ93w-ifIsdsf0IldKqFccovQRTNloHX6FeQ&s)]
+[![MasterHead](https://online.umn.edu/sites/online.umn.edu/files/styles/landscape_large/public/Software-Engineering-banner_1500x400.jpg?itok=oUjaAolF)]
 
 
 
