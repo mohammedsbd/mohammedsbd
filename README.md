@@ -1,4 +1,4 @@
-[![MasterHead](https://online.umn.edu/sites/online.umn.edu/files/styles/landscape_large/public/Software-Engineering-banner_1500x400.jpg?itok=oUjaAolF)]
+![MasterHead](https://online.umn.edu/sites/online.umn.edu/files/styles/landscape_large/public/Software-Engineering-banner_1500x400.jpg?itok=oUjaAolF)
 
 
 
