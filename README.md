@@ -1,11 +1,11 @@
-![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+
 
 
 
 
 <h1 align="center">Hi 👋, I'm Mohammed</h1>
 <h3 align="center">A passionate fullstack web devloper</h3>
-<img align="right" src="https://cdn.prod.website-files.com/5e9aa66fd3886aa2b4ec01ca/641d131ec09aba5885e800f5_vs%20code%20themes%20(1).png">
+<img align="right" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedsbd&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedsbd" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammedsbd" alt="mohammedsbd" /></a> </p>
