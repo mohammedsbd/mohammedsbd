@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed</h1>
-<h3 align="center">A passionate full stack web developer from Ethiopia</h3>
+<h3 align="center">A passionate full stack web developer And Software Quality Assurance Engineer</h3>
 
 
 
