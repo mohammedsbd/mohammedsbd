@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Abe Garage(A fully Functional Startup web app)<br>👯 I’m looking to collaborate on Any Tech realted Fields<br><br>🌱 I’m currently learning django rust+Go<br>💬 Ask me about Anything related to Ai<br>⚡ Fun fact I teach my Collagues for free
+🔭 I’m currently working on Abe Garage(A fully Functional Startup web app)<br>👯 I’m looking to collaborate on Any Tech realted Fields<<br>🌱 I’m currently learning django, Elixir Rust+Go,<br>💬 Ask me about Anything related to Ai<br>⚡ Fun fact I teach my Collagues for free
 
 
 ## 🌐 Socials:
