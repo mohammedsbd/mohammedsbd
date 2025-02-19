@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! Im Mohammed A Full Stack Web Devloper And Professional Software QA Engineer</h1>
+<h1 align="center">Hi 👋! Im Mohammed A Full Stack Web Developer And Professional Software QA Engineer</h1>
 
 ###
 
