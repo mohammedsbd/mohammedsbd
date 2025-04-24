@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! AFull Stack Web Devloper And Professional Software Quality Assurance Engineer</h2>
+<h2 align="center">Hi 👋! Im Mohammed A Full Stack Web Devloper And Professional Software Quality Assurance Engineer</h2>
 
 ###
 
