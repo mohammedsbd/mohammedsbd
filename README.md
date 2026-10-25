@@ -221,7 +221,7 @@ const mohammed = {
 
 <!-- ============================  FOOTER  ============================ -->
 <p align="center">
-  <i>Always up for a chat about backend architecture, AI products, or building tech for Africa.</i><br><br>
+  <i>Always up for a chat about backend architecture, AI products, or building things that matter.</i><br><br>
   <img src="https://komarev.com/ghpvc/?username=mohammedsbd&label=Profile%20views&color=1f3864&style=flat-square" alt="Profile views">
 </p>
 
