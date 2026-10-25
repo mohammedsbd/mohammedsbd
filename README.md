@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! Im Mohammed A Full Stack Web Devloper And Professional Software Quality Assurance Engineer</h2>
+<!-- <h2 align="center">Hi 👋! Im Mohammed A Full Stack Web Devloper And Professional Software Quality Assurance Engineer</h2>
 
 ###
 
@@ -101,4 +101,131 @@
 
 
 
-###
+### -->
+
+<!-- ============================  HEADER  ============================ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1f3864,100:2c5364&height=220&section=header&text=Mohammed%20Salih&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Backend%20Engineer%20%C2%B7%20CTO%20%C2%B7%20Product%20Builder&descSize=18&descAlignY=58" alt="Mohammed Salih" width="100%">
+</p>
+
+<p align="center">
+  <a href="https://mohammedsbd.tech">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=4F8EF7&center=true&vCenter=true&width=640&lines=I+build+backends+that+scale+%E2%9A%99%EF%B8%8F;900%2B+REST+endpoints+in+one+product+%F0%9F%8F%97%EF%B8%8F;Cutting+AI+agents'+token+costs+by+92%25+%F0%9F%A4%96;CTO+%40+AfroDigital+%C2%B7+Addis+Ababa+%F0%9F%87%AA%F0%9F%87%B9" alt="Typing intro">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://mohammedsbd.tech"><img src="https://img.shields.io/badge/Portfolio-mohammedsbd.tech-0f2027?style=for-the-badge&logo=googlechrome&logoColor=4F8EF7" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/mohammedsalihhh"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:mohammed1112ok@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Open%20to-Remote%20Roles-22c55e?style=for-the-badge&logo=rocket&logoColor=white" alt="Open to remote roles">
+</p>
+
+<br>
+
+<!-- ============================  ABOUT ME  ============================ -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About me
+
+```ts
+const mohammed = {
+  role:        "Backend-Focused Full-Stack Developer",
+  currently:   "CTO & Backend Lead @ AfroDigital Innovation Labs",
+  experience:  "4+ years",
+  leading:     "a team of 10 engineers",
+  shippedFor:  "9+ client organizations",
+  bestWin:     "Halved product delivery time with one reusable NestJS backend",
+  building:    ["YeneSchool", "Parsim"],
+  teaching:    "Python & DSA at BITS College (4.0 GPA)",
+  basedIn:     "Addis Ababa, Ethiopia 🇪🇹 · open to remote",
+};
+```
+
+<br>
+
+<!-- ============================  PROJECTS  ============================ -->
+## 🚀 &nbsp;Things I've built
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏫 <a href="https://yeneschool.me">YeneSchool</a></h3>
+      <sub><b>Founder & Lead Developer</b></sub>
+      <p>An AI-Director-Driven School Operating System that runs HR, finance, academics, students and parents in one platform, in five languages.</p>
+      <p>
+        <img src="https://img.shields.io/badge/900%2B-REST%20endpoints-1f3864?style=flat-square">
+        <img src="https://img.shields.io/badge/151-DB%20tables-1f3864?style=flat-square">
+        <img src="https://img.shields.io/badge/10-user%20roles-1f3864?style=flat-square">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 Parsim <sup><kbd>in development</kbd></sup></h3>
+      <sub><b>Founder & Full-Stack Engineer</b></sub>
+      <p>A provider-agnostic inference layer that lets long-horizon AI agents run longer tasks at lower cost by compressing stale context.</p>
+      <p>
+        <img src="https://img.shields.io/badge/up%20to%2092%25-fewer%20tokens-16a34a?style=flat-square">
+        <img src="https://img.shields.io/badge/860%2B-tests-16a34a?style=flat-square">
+        <img src="https://img.shields.io/badge/OpenAI%20%C2%B7%20Anthropic%20%C2%B7%20Gemini-supported-16a34a?style=flat-square">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💬 Agentum</h3>
+      <sub><b>AI-Native Customer Support</b></sub>
+      <p>Answers customers straight from a business's own documentation, with document ingestion, custom response tones and an embeddable chat widget.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PDF%20%C2%B7%20CSV%20%C2%B7%20Web-ingestion-7c3aed?style=flat-square">
+        <img src="https://img.shields.io/badge/Embeddable-widget-7c3aed?style=flat-square">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🫀 BioMatch</h3>
+      <sub><b>AI-Powered Organ Donor Matching</b></sub>
+      <p>Replaces months of manual compatibility checks with AI matching built on population genetics data.</p>
+      <p>
+        <img src="https://img.shields.io/badge/%F0%9F%8F%86%20Top%20Startup-Lead%20Business%202025-d97706?style=flat-square">
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- ============================  TECH STACK  ============================ -->
+## 🧰 &nbsp;Tech I work with
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,ruby,php,nodejs,nestjs,express,laravel,rails,graphql&perline=11" alt="Languages and backend"><br><br>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma,react,nextjs,tailwind,figma&perline=11" alt="Data and frontend"><br><br>
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,linux,nginx,jest,cypress,git&perline=11" alt="DevOps and testing">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI%20API-0f2027?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/Claude%20API-0f2027?style=for-the-badge&logo=anthropic&logoColor=D97757">
+  <img src="https://img.shields.io/badge/LangChain-0f2027?style=for-the-badge&logo=langchain&logoColor=white">
+  <img src="https://img.shields.io/badge/RAG%20%C2%B7%20MCP%20%C2%B7%20Agents-0f2027?style=for-the-badge&logo=probot&logoColor=4F8EF7">
+  <img src="https://img.shields.io/badge/n8n-0f2027?style=for-the-badge&logo=n8n&logoColor=EA4B71">
+</p>
+
+<br>
+
+<!-- ============================  STATS  ============================ -->
+## 📊 &nbsp;GitHub at a glance
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mohammedsbd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=4F8EF7&icon_color=4F8EF7&text_color=e5e7eb&include_all_commits=true&count_private=true" alt="GitHub stats">
+</p>
+
+<br>
+
+<!-- ============================  FOOTER  ============================ -->
+<p align="center">
+  <i>Always up for a chat about backend architecture, AI products, or building tech for Africa.</i><br><br>
+  <img src="https://komarev.com/ghpvc/?username=mohammedsbd&label=Profile%20views&color=1f3864&style=flat-square" alt="Profile views">
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:1f3864,100:0f2027&height=120&section=footer" width="100%">
+</p>
+
